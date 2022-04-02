@@ -1,2 +1,2 @@
-# Git_merge_project
+# second-branch
 Project for a/A
